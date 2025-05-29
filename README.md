@@ -243,10 +243,8 @@ contact.html
 </html>
 ```
 ## OUTPUT:
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
+![image](https://github.com/user-attachments/assets/97704939-7a6d-4e1c-8b79-819a187b22eb)
+
 
 ## RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
