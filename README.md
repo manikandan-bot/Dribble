@@ -503,9 +503,8 @@ Publish the website in the LocalHost.
 ```
 
 ## OUTPUT:
-![web exp-10](https://github.com/user-attachments/assets/987c4703-573e-4ad8-836a-811ed6191112)
-![web exp-10-1](https://github.com/user-attachments/assets/7fcf6b00-acaf-428c-8829-037e2f4c96bd)
-![web exp-10-2](https://github.com/user-attachments/assets/1a62f3d5-510e-417d-9aab-060aa061498d)
+![image](https://github.com/user-attachments/assets/c0740570-0d26-4ed4-8d73-bffd1ac02cc2)
+
 
 
 ## RESULT:
