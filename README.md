@@ -124,7 +124,7 @@ home.html
     </header>
 
     <footer class="bg-dark text-white text-center py-3">
-        <p>Designed by A.Joel Masilamani</p>
+        <p>Designed by T.Manikandan</p>
     </footer>
 </body>
 </html>
@@ -183,7 +183,7 @@ explore.html
     </section>
 
     <footer class="bg-dark text-white text-center py-3">
-        <p>Designed by A.Joel Masilamani</p>
+        <p>Designed by T.Manikandan</p>
     </footer>
 </body>
 </html>
@@ -237,7 +237,7 @@ contact.html
     </section>
 
     <footer class="bg-dark text-white text-center py-3">
-        <p>Designed by A.Joel Masilamani</p>
+        <p>Designed by T.Manikandan</p>
     </footer>
 </body>
 </html>
